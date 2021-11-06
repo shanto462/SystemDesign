@@ -1,0 +1,14 @@
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\bin\Debug\netcoreapp3.1\SystemDesign.exe
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\bin\Debug\netcoreapp3.1\SystemDesign.deps.json
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\bin\Debug\netcoreapp3.1\SystemDesign.runtimeconfig.json
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\bin\Debug\netcoreapp3.1\SystemDesign.runtimeconfig.dev.json
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\bin\Debug\netcoreapp3.1\SystemDesign.dll
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\bin\Debug\netcoreapp3.1\SystemDesign.pdb
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.csprojAssemblyReference.cache
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.AssemblyInfoInputs.cache
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.AssemblyInfo.cs
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.csproj.CoreCompileInputs.cache
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.dll
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.pdb
+C:\Users\Shanto\source\repos\SystemDesign\SystemDesign\obj\Debug\netcoreapp3.1\SystemDesign.genruntimeconfig.cache

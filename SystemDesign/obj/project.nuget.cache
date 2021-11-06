@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9Wu51K22A5nTmL2dUwwY78XmLCujs3IbRFt9KXzhJ6mub1/tckrQb6Q+8LS2spm6EKw5l2A3e7C2fcL5oVq1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shanto\\source\\repos\\SystemDesign\\SystemDesign\\SystemDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shanto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
