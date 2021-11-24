@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SystemDesign.Singleton
+namespace Solve.Singleton
 {
     public class AppSetting
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace SystemDesign.Concurrent
+namespace Solve.Concurrent
 {
     public class DS
     {
@@ -25,4 +25,15 @@ namespace SystemDesign.Concurrent
         }
 
     }
+
+
+    //public class a
+    //{
+    //    private async Task a()
+    //    {
+
+    //    }
+
+    //    private 
+    //}
 }

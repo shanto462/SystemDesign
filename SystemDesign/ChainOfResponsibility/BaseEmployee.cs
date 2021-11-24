@@ -3,7 +3,7 @@ using System.Collections.Concurrent;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SystemDesign.ChainOfResponsibility
+namespace Solve.ChainOfResponsibility
 {
     public abstract class BaseEmployee
     {

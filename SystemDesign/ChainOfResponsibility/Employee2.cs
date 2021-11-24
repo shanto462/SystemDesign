@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 
-namespace SystemDesign.ChainOfResponsibility
+namespace Solve.ChainOfResponsibility
 {
     public class Employee2 : BaseEmployee, IEmployee
     {

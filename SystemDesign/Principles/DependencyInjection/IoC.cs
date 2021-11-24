@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SystemDesign.Principles.DependencyInjection
+namespace Solve.Principles.DependencyInjection
 {
     /// <summary>
     ///

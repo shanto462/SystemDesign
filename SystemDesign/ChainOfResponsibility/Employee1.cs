@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace SystemDesign.ChainOfResponsibility
+namespace Solve.ChainOfResponsibility
 {
     public class Employee1 : BaseEmployee, IEmployee
     {

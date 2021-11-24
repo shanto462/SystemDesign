@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SystemDesign.Transient
+namespace Solve.Transient
 {
     public class Work
     {

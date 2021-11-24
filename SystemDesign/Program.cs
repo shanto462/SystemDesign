@@ -1,49 +1,55 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
-using SystemDesign.ChainOfResponsibility;
-using SystemDesign.Factory;
+using SystemDesign.IteratorPattern;
+using SystemDesign.Memento;
 
-namespace SystemDesign
+namespace Solve
 {
     class Program
     {
         static void Main(string[] args)
         {
-            IEmployee employee = new Employee1(
-                new Employee2(null)
-            );
+            //Node root = new Node(1, null);
+            //Node a = new Node(2, root);
+            //Node b = new Node(3, a);
+            //Node c = new Node(4, root);
 
-            var rand = new Random(Guid.NewGuid().GetHashCode());
+            //Tree tree = new Tree(root);
 
-            for (int i = 0; i < 10; i++)
-            {
-                Task.Run(() =>
-                {
-                    while (true)
-                    {
-                        employee.AcceptTask(rand.Next(10, 100));
-                        Thread.Sleep(10);
-                    }
-                });
-            }
+            //foreach (var data in tree)
+            //{
+            //    Console.WriteLine(data);
+            //}
 
 
-            //ShapeFactory shapeFactory = new ShapeFactory();
+            Person person = new Person("Sad");
+            PersonMoodHandler handler = new PersonMoodHandler(person);
 
-            //var rectangle = shapeFactory.GetShape(ShapeType.RECTANGLE);
-            //var triangle = shapeFactory.GetShape(ShapeType.TRIANGLE);
+            handler.TakeSnapshot();
+            person.ChangeMood("mara gese");
 
-            //rectangle.Draw();
-            //triangle.Draw();
+            handler.TakeSnapshot();
+            person.ChangeMood("more nai");
 
-            //var factory = AbstractFactory.GetFactory(FactoryType.Normal);
+            handler.TakeSnapshot();
 
-            //var shp = factory.GetShape(ShapeType.RECTANGLE);
 
-            //shp.Draw();
+            handler.ShowHistory();
 
-            Console.ReadKey();
+            handler.RestoreMood();
+            handler.ShowHistory();
+
+            handler.RestoreMood();
+            handler.ShowHistory();
+
+            handler.RestoreMood();
+            handler.ShowHistory();
+
+            // principle
+            // patern
+            // baki ta
         }
     }
 }

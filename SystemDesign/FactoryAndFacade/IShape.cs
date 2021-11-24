@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SystemDesign.Factory
+namespace Solve.Factory
 {
     public interface IShape
     {
